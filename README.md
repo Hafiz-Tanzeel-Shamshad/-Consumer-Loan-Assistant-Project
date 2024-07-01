@@ -1,4 +1,4 @@
-# Consumer Loan Assistant  
+# Java Consumer Loan Assistant  
 
 LoanAssistant is a Java Swing application that helps users calculate loan details such as monthly payments, total payments, 
 and interest paid based on input parameters like loan balance, interest rate, and either number of payments or monthly payment.
